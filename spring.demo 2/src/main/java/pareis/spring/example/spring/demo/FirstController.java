@@ -3,6 +3,7 @@ package pareis.spring.example.spring.demo;
 import apple.laf.JRSUIConstants;
 
 import java.awt.*;
+import java.util.Scanner;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
